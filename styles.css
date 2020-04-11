@@ -1,0 +1,34 @@
+body {
+  background-image: url(https://i.pinimg.com/564x/59/44/9e/59449e0d02f849369725798e6aaa0500.jpg);
+}
+
+h4,
+h5 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(21, 87, 187);
+}
+
+nav {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(21, 87, 187);
+}
+
+img {
+  height: 500px;
+  width: 25%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.card {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
