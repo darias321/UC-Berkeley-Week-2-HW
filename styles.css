@@ -15,20 +15,30 @@ nav {
 }
 
 img {
-  height: 500px;
-  width: 25%;
+  /* height: 500px; */
+  width: 50%;
 }
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 25vw;
 }
 
 .card {
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
   font-family: "Courier New", Courier, monospace;
   margin: 0 auto;
   float: none;
   margin-bottom: 10px;
+}
+
+.table {
+  display: flex;
+  flex-wrap: ;
+  margin-left: auto;
+  margin-right: auto;
 }
