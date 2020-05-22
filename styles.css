@@ -1,12 +1,5 @@
 body {
-  background-image: url(https://cutewallpaper.org/21/simple-background-wallpaper/vy12-simple-white-pattern-background-wallpaper.jpg);
-}
-
-h4,
-h5 {
-  text-align: center;
-  font-family: "Roboto Mono", monospace;
-  color: rgb(21, 87, 187);
+  background-color: #f78888;
 }
 
 nav {
