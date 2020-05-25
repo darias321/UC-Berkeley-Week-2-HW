@@ -1,24 +1,43 @@
 body {
-  background-image: url(https://i.pinimg.com/736x/bd/06/74/bd06749a679c6b7b89ff243a8d152b15.jpg);
-}
-nav {
+  background-color: #ececec;
   font-family: "Roboto Mono", monospace;
-  color: #5da2d5;
-  background-color: #f3e850;
+  color: black;
 }
 
-img {
+.jumbotron {
+  background-color: #5da2d5;
+  border-radius: 0px;
+}
+
+.nav {
+  font-family: "Roboto Mono", monospace;
+  background-color: #f3d250;
+}
+
+.nav-link {
+  color: #f78888;
+}
+
+.btn {
+  background-color: #f3d250;
+  color: #f78888;
+}
+
+.container {
+  background-color: #5da2d5;
+}
+/* img {
   width: 50%;
-}
+} */
 
-.center {
+/* .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 25vw;
-}
+} */
 
-.card {
+/* .card {
   display: flex;
   text-align: center;
   flex-wrap: wrap;
@@ -26,11 +45,11 @@ img {
   margin: 0 auto;
   float: none;
   margin-bottom: 10px;
-}
+} */
 
-.table {
+/* .table {
   display: flex;
   flex-wrap: ;
   margin-left: auto;
   margin-right: auto;
-}
+} */
