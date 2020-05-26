@@ -9,26 +9,26 @@ body {
 }
 
 .jumbotron {
-  background-color: #5da2d5;
+  background-color: #f3d250;
   border-radius: 0px;
 }
 
 .nav {
   font-family: "Roboto Mono", monospace;
-  background-color: #f3d250;
+  background-color: #ececec;
 }
 
 .nav-link {
-  color: #f78888;
+  color: black;
 }
 
 .btn {
   background-color: #f3d250;
-  color: #f78888;
+  color: black;
 }
 
 .container {
-  background-color: #5da2d5;
+  background-color: #f3d250;
 }
 
 .card-body {
@@ -36,7 +36,7 @@ body {
 }
 
 .card-img-top {
-  background-color: #5da2d5;
+  background-color: #ececec;
 }
 
 .contact-title {
