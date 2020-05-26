@@ -31,6 +31,14 @@ body {
   background-color: #5da2d5;
 }
 
+.card-body {
+  background-color: #ececec;
+}
+
+.card-img-top {
+  background-color: #5da2d5;
+}
+
 .contact-title {
   margin-top: 10px;
   color: black;
